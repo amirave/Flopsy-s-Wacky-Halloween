@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74fd93ad70b5fe44eb493db7ab84b707, type: 3}
+  m_Name: start
+  m_EditorClassIdentifier: 
+  reqs: []
+  npcName: pebblo
+  sentences:
+  - Hola bystander, I see you are nuevo here
+  - I know this is sudden but I must ask for your help
+  - you see, my son is lost and I cannot find him
+  - I believe he was last seen near the road infornt of the Town Hall
+  - help me find my son!! por favor!!
+  changes:
+  - mode = Quest
+  next: []

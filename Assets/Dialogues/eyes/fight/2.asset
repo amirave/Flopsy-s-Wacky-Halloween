@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74fd93ad70b5fe44eb493db7ab84b707, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  reqs: []
+  npcName: flopsy
+  sentences:
+  - WHAT ARE YOU DOING? CANT YOU SEE THE EYE IS EVIL?!
+  changes: []
+  next:
+  - {fileID: 11400000, guid: e7155a1ed06cb794eb76b377f78b10a2, type: 2}

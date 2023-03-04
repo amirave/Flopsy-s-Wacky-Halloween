@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a7c97a76a33a5c468bafb51d7e7bb3f, type: 3}
+  m_Name: eye
+  m_EditorClassIdentifier: 
+  noHardCandy: {fileID: 11400000, guid: 48cc81398573e314fa48a464334d3aa4, type: 2}
+  hasHardCandy:
+  - very well, thank you for breaking my out of my cage.
+  - you will be rewarded for you actions.
+  afterTrigger: {fileID: 11400000, guid: b22dfd4d6aa9dc6439b02268b2b3e904, type: 2}

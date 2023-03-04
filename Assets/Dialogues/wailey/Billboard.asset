@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74fd93ad70b5fe44eb493db7ab84b707, type: 3}
+  m_Name: Billboard
+  m_EditorClassIdentifier: 
+  reqs:
+  - billboard == 1
+  npcName: wailey
+  sentences:
+  - Thank you for cooperating, I did promise I will reward you handsomely and so,
+    here is a well worth reward.
+  - (By the way, I have heard that there's a resident living in the side of the mountain,
+    I would recommend to check that out)
+  changes:
+  - mode = Finished
+  next:
+  - {fileID: 11400000, guid: d687a15237de12f4bad5ba4223770d07, type: 2}

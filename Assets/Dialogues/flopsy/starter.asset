@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74fd93ad70b5fe44eb493db7ab84b707, type: 3}
+  m_Name: starter
+  m_EditorClassIdentifier: 
+  reqs: []
+  npcName: flopsy
+  sentences:
+  - welcome to funkytown!!1!1!! i am your neighbour flopsy!!
+  - 'we wanted to throw a picnic for the residents of the town, but we have no snacks
+    prepared ):'
+  - go around the neighbourhood to find some candies
+  - it could be a good chance to meet your new friends or something i dunno
+  - p.s. you should visit the town hall
+  - 'i think Wailey might have a job for you (:'
+  changes: []
+  next: []

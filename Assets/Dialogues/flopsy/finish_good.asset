@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74fd93ad70b5fe44eb493db7ab84b707, type: 3}
+  m_Name: finish_good
+  m_EditorClassIdentifier: 
+  reqs: []
+  npcName: flopsy
+  sentences:
+  - wow! you brought all the candies!
+  - im so glad you didnt awaken any ancient forces or something haha,
+  - "anyways, let\u2019s go and have a nice picnic."
+  changes: []
+  next:
+  - {fileID: 11400000, guid: 28412c63cd185de4b9e01636b36b0802, type: 2}

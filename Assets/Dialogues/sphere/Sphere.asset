@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b79e4b20e29b3a4bb84a2806c7d72fa, type: 3}
+  m_Name: Sphere
+  m_EditorClassIdentifier: 
+  tips:
+  - you can press q to roll;the only downside of this move is getting dizzy
+  - is the music burning your ears?;you can actually press esc to control volume
+    and sensetivity
+  - fun fact:;a human head remains conscious for around 20 seconds after being decapitated
+  - fun fact:;dead bodies decompose four times faster in water
+  - i know what you did.
+  - flopsy might not be as innocent as he seems
+  - i wonder if pebblo's son is adopted
+  - i miss thomas...
+  - 'remember to leave a nice comment (:'
+  - dont ask wailey about the 1976 accident
+  first: {fileID: 11400000, guid: bae75ee243a50354f96bc8b251442ca7, type: 2}

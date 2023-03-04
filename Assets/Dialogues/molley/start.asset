@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74fd93ad70b5fe44eb493db7ab84b707, type: 3}
+  m_Name: start
+  m_EditorClassIdentifier: 
+  reqs: []
+  npcName: molley
+  sentences:
+  - HELLO
+  - I LOVE MY CHILDREN VERY MUCH
+  - DONT YOU THINK THEY ARE AMAZING
+  - YEAH??? YOU THINK MY CHILDREN ARE AMAZING?? THANK YOU
+  - THEY JUST CAME OUT OF THE GROUND ONE DAY
+  - ALSO, WHAT DO YOU THINK ABOUT MY NEW SHOES?
+  - OH, YOU LIKE THEM?
+  - LIAR!!1!!! YOU CANT EVEN SEE MY SHOES
+  - COME BACK WHEN YOU CAN *PROPERLY* COMPLEMENT ME!!1!1!!
+  changes:
+  - mode = Quest
+  next: []
